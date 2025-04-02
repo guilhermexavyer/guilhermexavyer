@@ -4,7 +4,7 @@
 
 <!-- INFORMAÇÕES -->
 <div style="display: inline_block">
-  📁 - Estudante de Análise e Desenvolvimento de Sistemas no IFG <br>
+  📁 - Análise e Desenvolvimento de Sistemas - IFG <br>
 </div>
 
 <br>
@@ -12,7 +12,6 @@
 <!-- REDES SOCIAIS -->
 <div style="display: inline_block">
   <a href="https://www.instagram.com/guilhermexavyer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/xavyerguilherme" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-xavier-18128526b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
