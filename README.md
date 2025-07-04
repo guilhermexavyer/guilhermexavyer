@@ -13,7 +13,7 @@
 <!-- REDES SOCIAIS -->
 <div style="display: inline_block">
   <a href="https://www.instagram.com/guilhermexavyer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-xavier-18128526b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target"_blank" href="https://www.linkedin.com/in/guilherme-xavier-18128526b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <hr>
