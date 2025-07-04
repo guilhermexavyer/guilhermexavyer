@@ -1,10 +1,11 @@
-### <h1>Olá! Me chamo Guilherme Xavier 🙋‍♂</h1>
+### <h2>Olá! Me chamo Guilherme Xavier 🙋‍♂</h2>
 
 <hr>
 
 <!-- INFORMAÇÕES -->
 <div style="display: inline_block">
   📁 - Análise e Desenvolvimento de Sistemas - IFG <br>
+  ✉ - guilhermexavierpessoal@gmail.com <br>
 </div>
 
 <br>
