@@ -27,6 +27,7 @@
 <br>
 
 <!-- LINGUAGENS -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div style="display: inline_block">
   <img align="center" height="40" width="50" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="40" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -34,5 +35,5 @@
   <img align="center" height="40" width="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" height="40" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" height="40" width="50" alt="sqldev" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-  <i class="devicon-azuresqldatabase-plain colored"></i>
+  <i align="center" height="40" width="50" alt="sqldev" class="devicon-azuresqldatabase-plain colored"></i>
 </div>
