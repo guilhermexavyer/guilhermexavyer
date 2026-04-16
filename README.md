@@ -1,4 +1,4 @@
-# 👨‍💻 Guilherme Xavier
+# Guilherme Xavier
 
 <br>
 
@@ -17,20 +17,6 @@
     <a href="mailto:guilhermexavierpessoal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
     <a href="https://www.instagram.com/guilhermexavyer" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
     <a href="www.linkedin.com/in/guilhermexavyer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-    <a href="https://x.com/xavyerguilherme" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-</div>
-
-<br>
-
-<!-- TECNOLOGIAS -->
-## 🦾 Tecnologias
-<div style="display: inline_block">
-  <img align="center" height="40" width="50" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="50" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="40" width="50" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" height="40" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" height="40" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 <br>
