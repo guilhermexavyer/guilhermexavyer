@@ -5,7 +5,7 @@
 <!-- INFORMAÇÕES -->
 ## 👤 Sobre mim
 <div style="display: inline_block">
-  🎓 - Formado em Análise e Desenvolvimento de Sistemas pelo IFG
+  🎓 - Analista de Sistemas
 </div>
 
 <br>
