@@ -1,10 +1,4 @@
 ### Guilherme Xavier
-<hr>
-<div>
-  🎓 - Analista de Sistemas
-</div>
-
-<br>
 
 <!-- CONTATOS -->
 ### Contatos
